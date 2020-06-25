@@ -10,7 +10,7 @@
  * @package           Payfast_Payment_Utility
  *
  * @wordpress-plugin
- * Plugin Name:       PayFast Payment Utility
+ * Plugin Name:       PayFast Payment Utility - Sandbox
  * Plugin URI:        https://apps.net.pk
  * Description:       This plugin will let WordPress enable to accept PayFast Payment Gateway Payments
  * Version:           1.0.0
